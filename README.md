@@ -37,6 +37,7 @@ Currently the following podcast players and hosting providers have met the stand
 * [blubrry](https://blubrry.com/)
 * [Buzzsprout](https://www.buzzsprout.com/)
 * [Captivate](https://www.captivate.fm/)
+* [CastGarden](https://Cast.Garden/)
 * [Redcircle](https://redcircle.com/)
 * [RSS.com](https://rss.com/)
 * [Transistor](https://transistor.fm/)
