@@ -10,7 +10,6 @@ PSP Certification recognizes companies that are prioritizing open podcasting by 
 * Element support [`<podcast:transcript>`](https://github.com/Podcast-Standards-Project/PSP-1-Podcast-RSS-Specification#item-podcast-transcript)
 * Element support `<podcast:podping>`
 * Element support `<podcast:person>` (optional but recommended)
-* Element support `<podcast:txt>` (optional but recommended)
 * Element support `<podcast:podroll>` (optional but recommended)
 
 #### Podcast Players
