@@ -8,13 +8,17 @@ PSP Certification recognizes companies that are prioritizing open podcasting by 
 * Element support [`<podcast:locked>`](https://github.com/Podcast-Standards-Project/PSP-1-Podcast-RSS-Specification#channel-podcast-locked)
 * Element support [`<podcast:funding>`](https://github.com/Podcast-Standards-Project/PSP-1-Podcast-RSS-Specification#podcastfunding)
 * Element support [`<podcast:transcript>`](https://github.com/Podcast-Standards-Project/PSP-1-Podcast-RSS-Specification#item-podcast-transcript)
+* Element support `<podcast:podping>`
+* Element support `<podcast:person>` (optional but recommended)
+* Element support `<podcast:txt>` (optional but recommended)
+* Element support `<podcast:podroll>` (optional but recommended)
 
 #### Podcast Players
 * Element support [`<podcast:funding>`](https://github.com/Podcast-Standards-Project/PSP-1-Podcast-RSS-Specification#podcastfunding)
 * Element support [`<podcast:transcript>`](https://github.com/Podcast-Standards-Project/PSP-1-Podcast-RSS-Specification#item-podcast-transcript)
 
 ## How to apply
-To apply for certification, open a new [issue](https://github.com/Podcast-Standards-Project/Certification/issues) in this repository. Include instructions on how we can review your application along with:
+To apply for certification, [please fill out this form](https://forms.reform.app/pF4xrZ/psp/dkbkq1). Include instructions on how we can review your application along with:
 * The name of your product/service
 * A link to your logo (vector preferred)
 * Product/service category (hosting, player app, validation, etc.)
@@ -44,7 +48,7 @@ Currently the following podcast players and hosting providers have met the stand
 * [Redcircle](https://redcircle.com/)
 * [RSS.com](https://rss.com/)
 * [Transistor](https://transistor.fm/)
-* [Podigee](https://www.podigee.com/en/)
+* [Podigee](https://www.podigee.com/en/) (coming soon)
 * [Podpage](https://www.podpage.com/)
 * [Iono](https://iono.fm/)
 * [Podhome](https://www.podhome.fm/)
