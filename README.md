@@ -27,17 +27,24 @@ Currently the following podcast players and hosting providers have met the stand
 
 ### Podcast listening apps
 
-* [Steno.fm](https://www.steno.fm/)
-* [Podverse](https://podverse.fm/)
-* [Podfriend](https://www.podfriend.com/)
+* [Pocket Casts](https://pocketcasts.com/)
+* [Podcast Guru](https://podcastguru.io/)
 * [Curiocaster](https://curiocaster.com/)
+* [Podverse](https://podverse.fm/)
+* [Steno.fm](https://www.steno.fm/)
+* [Podfans](https://podfans.fm/)
+* [Anytime Player](https://anytimeplayer.app/)
+
 
 ### Podcast hosting providers
 
 * [blubrry](https://blubrry.com/)
 * [Buzzsprout](https://www.buzzsprout.com/)
 * [Captivate](https://www.captivate.fm/)
-* [CastGarden](https://Cast.Garden/)
 * [Redcircle](https://redcircle.com/)
 * [RSS.com](https://rss.com/)
 * [Transistor](https://transistor.fm/)
+* [Podigee](https://www.podigee.com/en/)
+* [Podpage](https://www.podpage.com/)
+* [Iono](https://iono.fm/)
+* [Podhome](https://www.podhome.fm/)
