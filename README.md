@@ -50,3 +50,4 @@ Currently the following podcast players and hosting providers have met the stand
 * [Podpage](https://www.podpage.com/)
 * [Iono](https://iono.fm/)
 * [Podhome](https://www.podhome.fm/)
+* [Podtoo](https://podtoo.com/)
