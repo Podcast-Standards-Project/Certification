@@ -34,7 +34,7 @@ Currently the following podcast players and hosting providers have met the stand
 * [Curiocaster](https://curiocaster.com/)
 * [Podverse](https://podverse.fm/)
 * [Steno.fm](https://www.steno.fm/)
-* [Podfans](https://podfans.fm/)
+* [TrueFans](https://truefans.fm/)
 * [Anytime Player](https://anytimeplayer.app/)
 
 
