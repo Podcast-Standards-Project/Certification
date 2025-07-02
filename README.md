@@ -1,6 +1,8 @@
 # PSP Certification
 PSP Certification recognizes companies that are prioritizing open podcasting by supporting innovative open podcast technology.
 
+[Contact us here](https://podstandards.org/contact/)
+
 ## Requirements
 #### Hosting Providers
 * [Declare the "podcast" namespace](https://github.com/Podcast-Standards-Project/PSP-1-Podcast-RSS-Specification#required-rss-namespace-declarations) in RSS feeds by default
