@@ -55,4 +55,5 @@ Currently the following podcast players and hosting providers have met the stand
 
 ### Other members
 
-* [Podpage](https://www.podpage.com/)**
+* [Podnews](https://podnews.net) March 2023]
+* [Podpage](https://www.podpage.com/) [March 2025]
