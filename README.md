@@ -31,25 +31,28 @@ Currently the following podcast players and hosting providers have met the stand
 
 ### Podcast listening apps
 
-* [Pocket Casts](https://pocketcasts.com/)
-* [Podcast Guru](https://podcastguru.io/)
-* [Curiocaster](https://curiocaster.com/)
-* [Podverse](https://podverse.fm/)
-* [Steno.fm](https://www.steno.fm/)
-* [TrueFans](https://truefans.fm/)
-* [Anytime Player](https://anytimeplayer.app/)
+* [Pocket Casts](https://pocketcasts.com/) [March 2023]
+* [Podcast Guru](https://podcastguru.io/) [March 2023]
+* [Curiocaster](https://curiocaster.com/) [March 2023]
+* [Podverse](https://podverse.fm/) [March 2023]
+* [Steno.fm](https://www.steno.fm/) [March 2023]
+* [TrueFans](https://truefans.fm/) [March 2023]
+* [Anytime Player](https://anytimeplayer.app/) [March 2025]
 
 
 ### Podcast hosting providers
 
-* [blubrry](https://blubrry.com/)
-* [Buzzsprout](https://www.buzzsprout.com/)
-* [Captivate](https://www.captivate.fm/)
-* [Redcircle](https://redcircle.com/)
-* [RSS.com](https://rss.com/)
-* [Transistor](https://transistor.fm/)
-* [Podigee](https://www.podigee.com/en/) (coming soon)
-* [Podpage](https://www.podpage.com/)
-* [Iono](https://iono.fm/)
-* [Podhome](https://www.podhome.fm/)
-* [Podtoo](https://podtoo.com/)
+* [blubrry](https://blubrry.com/) [March 2023]
+* [Buzzsprout](https://www.buzzsprout.com/) [March 2023]
+* [Captivate](https://www.captivate.fm/) [March 2023]
+* [Redcircle](https://redcircle.com/) [March 2023]
+* [RSS.com](https://rss.com/) [March 2023]
+* [Transistor](https://transistor.fm/) [March 2023]
+* [Iono](https://iono.fm/) [March 2025]
+* [Podhome](https://www.podhome.fm/) [March 2025]
+* [Podtoo](https://podtoo.com/) [June 2025]
+* [Alitu](https://alitu.com/) [July 2025]
+
+### Other members
+
+* [Podpage](https://www.podpage.com/)**
